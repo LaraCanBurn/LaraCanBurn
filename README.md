@@ -7,23 +7,22 @@ This repository and others in my profile contain lab environments, scripts, and 
 
 ## GitHub Statistics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api?username=LaraCanBurn&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
       alt="LaraCanBurn GitHub stats"
+      height="180em"
     />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCanBurn&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
       alt="Top languages"
+      height="180em"
     />
   </a>
-</p>
+</div>
 
 ---
 
@@ -47,12 +46,12 @@ This repository and others in my profile contain lab environments, scripts, and 
 
 - **Operating Systems:** Linux, Kali, Arch-based systems  
 - **Security & Forensics:** Nmap, Wireshark, tcpdump, Burp Suite, Metasploit, Volatility  
-- **Languages & Scripting:** Bash, Python  
-- **Other:** Git, virtualization/containers for lab environments  
+- **Languages & Scripting:** Bash, Python, Java, C++  
+- **Other:** Git, Docker, Kubernetes, virtualization/containers for lab environments  
 
 ---
 
-### 🔐 Security Focus
+<h3 align="center">🔐 Security Focus</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ethical%20Hacking-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3b82f6&labelColor=0d1117" />
@@ -61,34 +60,37 @@ This repository and others in my profile contain lab environments, scripts, and 
   <img src="https://img.shields.io/badge/-Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=facc15&labelColor=0d1117" />
 </p>
 
-### 🐧 Operating Systems
+<h3 align="center">🐧 Operating Systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3b82f6&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=22c55e&labelColor=0d1117" />
 </p>
 
-### 🧪 Languages & Scripting
+<h3 align="center">🧪 Languages & Scripting</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=22c55e&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3b82f6&labelColor=0d1117" />
 </p>
 
-### 🧩 Frameworks & Backend
+<h3 align="center">🧩 Frameworks & Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=22c55e&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=41b883&labelColor=0d1117" />
 </p>
 
-### 🛠️ Tools & Platforms
+<h3 align="center">🛠️ Tools & Platforms</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9900&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=3b82f6&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-Notepad++-0d1117?style=for-the-badge&logo=notepadplusplus&logoColor=22c55e&labelColor=0d1117" />
 </p>
