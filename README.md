@@ -79,6 +79,8 @@ This repository and others in my profile contain lab environments, scripts, and 
   <img src="https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=22c55e&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3b82f6&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=0d1117" />
+
 </p>
 
 <p align="center">
@@ -103,8 +105,9 @@ This repository and others in my profile contain lab environments, scripts, and 
 ## Certifications
 
 - **eJPT – eLearnSecurity Junior Penetration Tester** *(in progress / planned)*  
+- **eCDFP – eLearnSecurity Certified Digital Forensics Professional** *(in progress / planned)*  
 
-I am currently preparing for the eJPT certification to formalize my skills in penetration testing and practical network / web application security.
+I am currently preparing for the eJPT and eCDFP certifications to formalize my skills in penetration testing and digital forensics.
 
 ---
 
