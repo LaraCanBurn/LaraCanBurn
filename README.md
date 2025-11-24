@@ -57,46 +57,44 @@ This repository and others in my profile contain lab environments, scripts, and 
 
 <table>
   <tr>
-    <td valign="top">
-      <ul>
-        <li><b>Operating Systems:</b> Linux, Kali, Arch-based systems</li>
-        <li><b>Security &amp; Forensics:</b> Nmap, Wireshark, tcpdump, Burp Suite, Metasploit, Volatility</li>
-        <li><b>Languages &amp; Scripting:</b> Bash, Python, Java, C++</li>
-        <li><b>Other:</b> Git, Docker, Kubernetes, virtualization/containers for lab environments</li>
-      </ul>
-    </td>
-    <td valign="top" align="center">
+    <td>
 
-      <p>
-        <!-- Operating Systems -->
-        <img src="https://img.shields.io/badge/-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3b82f6&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=22c55e&labelColor=0d1117" />
-      </p>
-
-      <p>
-        <!-- Languages -->
-        <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=22c55e&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3b82f6&labelColor=0d1117" />
-      </p>
-
-      <p>
-        <!-- Frameworks -->
-        <img src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=22c55e&labelColor=0d1117" />
-        <img src="https://img.shields.io-badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=22c55e&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=41b883&labelColor=0d1117" />
-      </p>
-
-      <p>
-        <!-- Tools & Platforms -->
-        <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=3b82f6&labelColor=0d1117" />
-        <img src="https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6&labelColor=0d1117" />
-      </p>
+- **Operating Systems:** Linux, Kali, Arch-based systems  
+- **Security & Forensics:** Nmap, Wireshark, tcpdump, Burp Suite, Metasploit, Volatility  
+- **Languages & Scripting:** Bash, Python, Java, C++  
+- **Other:** Git, Docker, Kubernetes, virtualization/containers for lab environments  
 
     </td>
+    <td>
+
+<p align="center">
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3b82f6&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=22c55e&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f97316&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3b82f6&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=41b883&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=3b82f6&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6&labelColor=0d1117" />
+</p>
   </tr>
 </table>
 
