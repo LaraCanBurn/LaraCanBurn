@@ -1,27 +1,106 @@
-# Welcome 👋
+# Welcome
 
-🌎 Low gravity it's so much fun! 🌍
+I am focused on ethical hacking, cybersecurity, digital forensics, and applied cryptography.  
+This repository and others in my profile contain lab environments, scripts, and notes that I use to study and test security concepts in a controlled and legal context.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCanBurn&layout=compact&theme=dark)
+---
 
-## A Few Quick Facts 
-*   🧠 Learning about **gsc**.
-*   💻 Most of my projects are available on [Github](https://github.com/LaraCanBurn)
-*   📍 Fun Fact: 197.193.70.4
+## GitHub Statistics
 
-## Some Tools I Use 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=LaraCanBurn&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+      alt="LaraCanBurn GitHub stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCanBurn&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
+      alt="Top languages"
+    />
+  </a>
+</p>
+
+---
+
+## Areas of Interest
+
+- **Ethical Hacking & Penetration Testing**  
+  Reconnaissance, vulnerability assessment, and exploitation with a focus on Linux environments.
+
+- **Cybersecurity & Defense**  
+  System hardening, monitoring, and incident response practices.
+
+- **Digital Forensics**  
+  Disk, memory, and network forensics for investigation and evidence preservation.
+
+- **Applied Cryptography**  
+  Encryption, secure protocols, and key management in real-world scenarios.
+
+---
+
+## Tools & Technologies
+
+- **Operating Systems:** Linux, Kali, Arch-based systems  
+- **Security & Forensics:** Nmap, Wireshark, tcpdump, Burp Suite, Metasploit, Volatility  
+- **Languages & Scripting:** Bash, Python  
+- **Other:** Git, virtualization/containers for lab environments  
+
+---
+
+### 🔐 Security Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ethical%20Hacking-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3b82f6&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-0d1117?style=for-the-badge&logo=protonvpn&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Digital%20Forensics-0d1117?style=for-the-badge&logo=wireshark&logoColor=38bdf8&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=facc15&labelColor=0d1117" />
+</p>
+
+### 🐧 Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=3b82f6&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Arch%20Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=22c55e&labelColor=0d1117" />
+</p>
+
+### 🧪 Languages & Scripting
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=3b82f6&labelColor=0d1117" />
+</p>
+
+### 🧩 Frameworks & Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Django-0d1117?style=for-the-badge&logo=django&logoColor=22c55e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=22c55e&labelColor=0d1117" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9900&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Notepad++-0d1117?style=for-the-badge&logo=notepadplusplus&logoColor=22c55e&labelColor=0d1117" />
+</p>
+
+---
+
+## Certifications
+
+- **eJPT – eLearnSecurity Junior Penetration Tester** *(in progress / planned)*  
+
+I am currently preparing for the eJPT certification to formalize my skills in penetration testing and practical network / web application security.
+
+---
+
+If you are interested in collaborating on security-focused labs, tooling, or write-ups, feel free to reach out or open an issue in any relevant repository.
